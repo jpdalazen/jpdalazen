@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm João Pedro Dalazen
 
-<!--
-**jpdalazen/jpdalazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **data enthusiast** starting my journey into the world of **Data Analytics**.  
 
-Here are some ideas to get you started:
+- 🔭 **Currently exploring:** Python, SQL, Power BI, and data visualization  
+- 🌱 **Learning:** Data analysis, dashboards, and business insights  
+- 👯 **Looking to collaborate on:** Small projects, portfolio challenges, and learning opportunities  
+- 💬 **Ask me about:** Data, business, or random curiosities about politics and religion  
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/jpdalazen)  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I love analyzing numbers and turning them into insights, even as a rookie  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 **Tech & Tools I use:**  
+Python | Pandas | Matplotlib | Seaborn | SQL | Power BI | Jupyter Notebook  
+
+📊 **Goal:** Build a strong portfolio in **Data Analytics** and grow as a professional in data-driven decision making.
