@@ -7,7 +7,6 @@ I'm a **data enthusiast** starting my journey into the world of **Data Analytics
 - 👯 **Looking to collaborate on:** Small projects, portfolio challenges, and learning opportunities  
 - 💬 **Ask me about:** Data, business, or random curiosities about politics and religion  
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/jpdalazen)  
-- 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love analyzing numbers and turning them into insights, even as a rookie  
 
 ---
