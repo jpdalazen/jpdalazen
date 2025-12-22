@@ -6,7 +6,7 @@ I'm a **data enthusiast** starting my journey into the world of **Data Analytics
 - 🌱 **Learning:** Data analysis, dashboards, and business insights  
 - 👯 **Looking to collaborate on:** Small projects, portfolio challenges, and learning opportunities  
 - 💬 **Ask me about:** Data, business, or random curiosities about politics and religion  
-- 📫 **Reach me at:** [LinkedIn]([https://www.linkedin.com/in/jpdalazen](https://www.linkedin.com/in/jo%C3%A3o-pedro-dalazen-830461192/)  
+- 📫 **Reach me at:** [LinkedIn]([https://www.linkedin.com/in/jpdalazen](https://www.linkedin.com/in/jo%C3%A3o-pedro-dalazen-830461192/))
 - ⚡ **Fun fact:** I love analyzing numbers and turning them into insights, even as a rookie  
 
 ---
