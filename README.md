@@ -12,6 +12,6 @@ I'm a **data enthusiast** starting my journey into the world of **Data Analytics
 ---
 
 💻 **Tech & Tools I use:**  
-Python | Pandas | Matplotlib | Seaborn | SQL | Power BI | Jupyter Notebook  
+Python | Pandas | Matplotlib | Seaborn | MySQL | Power BI | Jupyter Notebook  
 
 📊 **Goal:** Build a strong portfolio in **Data Analytics** and grow as a professional in data-driven decision making.
